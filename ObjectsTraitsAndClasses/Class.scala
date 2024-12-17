@@ -1,4 +1,4 @@
-// https://scastie.scala-lang.org/FYVqqqN9Q4aAkr2fjyrtjg
+// https://scastie.scala-lang.org/qH6gRMppRMGY3Zhh9Fb5Yw
 
 class Person(val name: String, val age: Int)
 
