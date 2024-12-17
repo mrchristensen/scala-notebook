@@ -1,4 +1,5 @@
-# scala-notebook
+# Scala Notebook
+Some personal notes for Scala
 
 ## Collections
 * [Map/GetOrElse Example](EmailMapExample.scala)
