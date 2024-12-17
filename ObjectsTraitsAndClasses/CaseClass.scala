@@ -1,7 +1,6 @@
-// https://scastie.scala-lang.org/AB67NkYvS2S3m6rK7C8wCw
+// https://scastie.scala-lang.org/EOeVlyQYQ52m8yftAwHIgg
 
 case class Person(name: String, age: Int)
-
 
 val bob: Person = Person("Bob", 42)
 
