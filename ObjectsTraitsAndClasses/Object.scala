@@ -1,4 +1,4 @@
-// https://scastie.scala-lang.org/woQeYJILSg6Eep0kPnQgvQ
+// https://scastie.scala-lang.org/4uUHU4GsQOm4LuzOL2ar0w
 
 object Bob {
   val name: String = "Bob"
