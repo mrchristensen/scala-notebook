@@ -1,8 +1,10 @@
 # Scala Notebook
 Some personal notes for Scala
 
+## Options
+* [Email Example](EmailOptionsExample.scala)
+
 ## Collections
-* [Map/GetOrElse Example](EmailMapExample.scala)
 * [Operators](CollectionOperators.scala)
 
 ## Objects vs Case Objects vs Traits vs Classes vs Case Classes
