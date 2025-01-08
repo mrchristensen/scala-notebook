@@ -1,4 +1,4 @@
-# Scala Notebook
+# Scala Mentorship Notebook
 Some personal notes for Scala
 
 ## Options
